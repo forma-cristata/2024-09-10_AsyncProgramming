@@ -1,4 +1,4 @@
-# JavaScript Guessing Game & Calculator
+# Guessing Game & Calculator
 
 A simple project demonstrating asynchronous JavaScript programming through two interactive applications:
 
